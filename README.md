@@ -1,5 +1,5 @@
-[About Me]()
+[About Me](https://amina-brown.github.io/about_me.html)
 
 [Resume]()
 
-[Projects]()
+[Projects](https://amina-brown.github.io/projects.html)
