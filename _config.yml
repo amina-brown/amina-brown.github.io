@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
-logo: https://github.com/amina-brown/amina-brown.github.io/blob/master/logo.png
+title: [The title of your site]
+description: [A short description of your site's purpose]
+logo: [https://github.com/amina-brown/amina-brown.github.io/blob/master/logo.png]
