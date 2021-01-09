@@ -1,4 +1,6 @@
 [Home](https://amina-brown.github.io) | [Resume]() | [Projects](https://amina-brown.github.io/projects.html)
+
+
 ## About Me
 
 ![Headshot](/headshot.jpg)
