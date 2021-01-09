@@ -1,7 +1,7 @@
 [Home](https://amina-brown.github.io) | [About Me](https://amina-brown.github.io/about_me.html) | [Resume]() 
 ## Projects
 
-[Invisible Artifacts]()  
+[Invisible Artifacts](https://amina-brown.github.io/invisible_artifacts.html)  
 A look into the on view vs. in storage artifacts across the various Smithsonian collections
 
 [Pushing Buttons]()  
