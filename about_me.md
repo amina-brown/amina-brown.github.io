@@ -1,3 +1,4 @@
+[Home](https://amina-brown.github.io/about_me.html) | [Resume]() | [Projects](https://amina-brown.github.io/projects.html)
 ## About Me
 
 ![Headshot](/headshot.jpg)
@@ -9,4 +10,4 @@ Information Design work rather than traditional Data Science. I love the idea of
 data driven information to diverse audiences. While most of my work is done digitally, I also like to explore making physical data representations. Head to my [projects page](https://amina-brown.github.io/projects.html) to see examples of my work!
 
 ***
-[LinkedIn](www.linkedin.com/in/aminagbrown)
+[LinkedIn](https://www.linkedin.com/in/aminagbrown)
