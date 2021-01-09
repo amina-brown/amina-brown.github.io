@@ -18,5 +18,5 @@ A tangible exploration of sizeable earthquakes across the globe
 [Relative Diversity](https://amina-brown.github.io/relative_diversity.html)  
 Experimenting with spatial representations and expressing diversity rates across the country
 
-[New York Philharmonic]()  
+[New York Philharmonic](https://amina-brown.github.io/philharmonic.html)  
 Using small multiples to navigate the season's performances from a specific conductor
