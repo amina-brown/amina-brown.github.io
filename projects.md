@@ -9,13 +9,13 @@ A look into the on view vs. in storage artifacts across the various Smithsonian 
 [Pushing Buttons](https://amina-brown.github.io/pushing_buttons.html)  
 Exploring African American history through the medium of the pinback button
 
-[Dressing Down Dress Codes]()  
+[Dressing Down Dress Codes](https://amina-brown.github.io/dress_codes.html)  
 How uncertain language in public school dress codes relates to bodily censorship
 
 [Significant Earthquakes/Aftershock]()  
 A tangible exploration of sizeable earthquakes across the globe
 
-[Relative Diversity]()  
+[Relative Diversity](https://amina-brown.github.io/relative_diversity.html)  
 Experimenting with spatial representations and expressing diversity rates across the country
 
 [New York Philharmonic]()  
