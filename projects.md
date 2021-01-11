@@ -1,4 +1,4 @@
-[Home](https://amina-brown.github.io) | [About Me](https://amina-brown.github.io/about_me.html) | [Resume]() 
+[Home](https://amina-brown.github.io) | [About Me](https://amina-brown.github.io/about_me.html) | [Resume](https://amina-brown.github.io/Resume_01_2021.pdf) 
 
 
 ## Projects
