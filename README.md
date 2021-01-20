@@ -2,5 +2,7 @@
 
 
 ## My Weekly Viz 
+
+Spending some time each week to create a new type of visualization in R.
 ![](got_here.png)
 ![](onbreak.png)
